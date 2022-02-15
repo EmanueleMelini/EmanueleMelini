@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmanueleMelini
 - 👀 I’m interested in Android developing
-- 🌱 I’m currently learning Java, HTML, JavaScript, ColdFusion, SQL Server and MySQL
+- 🌱 I’m currently learning Java, Swift, HTML, JavaScript, ColdFusion, SQL Server and MySQL
 - 📫 How to reach me https://twitter.com/EmanueleMelini on Twitter or @LeleMims on Telegram
 
 <!---
